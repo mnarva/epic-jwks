@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "alg": "RS384",
+      "e": "AQAB",
+      "kid": "nonprod-key-1",
+      "kty": "RSA",
+      "n": "tiHnJazYd85OEvhEUybLvYGIbYR6rarejRboYREKs4yceDgEG4Z4SIzJCgYYvlgf1gbv2TtRYfDlru0OtFRpnxkQ8ePllX8Na1qASww7Uej8iZNVH0iBByaGKtJAPi6T5omp53BR1_wLgm5buGCs_4RFP-sab9rcPCyTQZPcyP5cv0PrK6I3jpqbg1-Tj1ZxhtHNG9sYxZzkvSf-3rD6HwrWGWTeMNvKejkOPyBJH-YCBwNkJnedV6TkLndm2cN5u5XEqchXNlUqRymsyFCSyP8SaUKPItvHM7vha-nqN6jt8G7x4aSf-SmHCCU-lNBeHucIZA2_6fn_eRsj2X5VHw",
+      "use": "sig"
+    }
+  ]
+}
